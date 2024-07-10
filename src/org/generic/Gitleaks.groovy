@@ -1,4 +1,4 @@
-package org.P9
+package org.generic
 
 def call() {
     sh '''
